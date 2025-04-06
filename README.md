@@ -3,7 +3,7 @@
 A simple Flask-based API that serves JSON data — built with Python and ready to deploy on Render or any cloud platform.
 
 ## Iamge Output Sample JSON Code 
-![API Screenshot](image)
+![API Screenshot](https://github.com/kondurupriyanka/API-SHL-JSON/blob/main/image_api_json.jpg?raw=true)
 
 
 
