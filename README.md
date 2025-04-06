@@ -3,6 +3,7 @@
 A simple Flask-based API that serves JSON data — built with Python and ready to deploy on Render or any cloud platform.
 
 ## Iamge Output Sample JSON Code 
+![API Screenshot](image)
 
 
 
